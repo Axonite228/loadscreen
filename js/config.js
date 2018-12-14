@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Server name";
+var l_serverName = "Revolution TTT";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -51,10 +51,7 @@ var l_background = "backgrounds/videos/dancingstars.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/alice.jpg",
-	"backgrounds/images/alice02.jpg",
-	"backgrounds/images/alice03.jpg",
-        "backgrounds/images/alice04.jpg"
+	"backgrounds/images/logo_2.jpg"
 ];
 
 /*Random background images order?*/
@@ -104,7 +101,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Welcome to our Server!"
+"Привет ствуем Вас!"
 ];
 
 /*Random message order?*/
